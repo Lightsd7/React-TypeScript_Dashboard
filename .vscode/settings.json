@@ -1,0 +1,8 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.compactFolders": false,
+
+  "material-icon-theme.folders.associations": {
+    "repositories": "Database",
+  }
+}
